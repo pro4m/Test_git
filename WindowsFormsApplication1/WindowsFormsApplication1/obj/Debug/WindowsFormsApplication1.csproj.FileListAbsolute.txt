@@ -1,1 +1,2 @@
 F:\Research-2016-AV\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ghost\OneDrive\Tài liệu\GitHub\test_git\Test_git\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
